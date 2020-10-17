@@ -25,13 +25,16 @@ var namespaces_dup =
     [ "n_queens_all_solutions", "df/d44/namespacen__queens__all__solutions.html", null ],
     [ "neural_network", "d0/d2e/namespaceneural__network.html", null ],
     [ "others", "d0/d6f/namespaceothers.html", null ],
+    [ "pancake_sort", "df/d10/namespacepancake__sort.html", null ],
     [ "postfix_expression", "d4/de6/namespacepostfix__expression.html", null ],
     [ "qr_algorithm", "d2/d3b/namespaceqr__algorithm.html", null ],
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", null ],
     [ "range_queries", "dd/d69/namespacerange__queries.html", null ],
+    [ "rat_maze", "d9/d60/namespacerat__maze.html", null ],
     [ "search", "d9/dca/namespacesearch.html", null ],
     [ "shortest_common_supersequence", "d3/deb/namespaceshortest__common__supersequence.html", null ],
     [ "sorting", "d5/d91/namespacesorting.html", null ],
+    [ "sparse_table", "d9/d55/namespacesparse__table.html", null ],
     [ "spirograph", "da/dd3/namespacespirograph.html", null ],
     [ "statistics", "d2/dcf/namespacestatistics.html", null ],
     [ "std", "d8/dcc/namespacestd.html", null ],
@@ -40,5 +43,6 @@ var namespaces_dup =
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "util_functions", "d3/d17/namespaceutil__functions.html", null ],
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
+    [ "word_break", "d6/d53/namespaceword__break.html", null ],
     [ "XOR", "d7/d47/namespace_x_o_r.html", null ]
 ];
